@@ -11,3 +11,4 @@ This application is based off of the I Am Rich application that Armin Heinrich c
         1. Basics of Xcode IDE. 
         2. Placing UI elements onto Main.storyboard 
         3. Storing and Organizing Image Assests 
+        4. Importance of icon and image size points vs pixels for different resolution screens
